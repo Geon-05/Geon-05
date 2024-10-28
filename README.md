@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=java,css,html,js,spring&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask,sklearn,tensorflow&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gcp,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,github&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,vscode&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin,linux,notion,powershell,stackoverflow,twitter,ubuntu,vim&theme=light)](https://skillicons.dev)
