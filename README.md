@@ -5,7 +5,6 @@
 - 🌱 **Currently Learning:** Deep learning frameworks, image restoration techniques, and collaborative software development.  
 - 💞️ **Looking to Collaborate on:** AI-driven projects that solve real-world problems, especially in computer vision and data analysis.  
 - 📫 **How to Reach Me:** [ email : zqrc05@gmail.com / notion : https://www.notion.so/162db44f39ac8158a37bd367ab4eee19 ]  
-- 😄 **Pronouns:** He/Him  
 - ⚡ **Fun Fact:** I love exploring cutting-edge technologies and challenging myself with new projects.  
 - 😎 **Now:** Fully immersed in learning and growing!  
 ---
