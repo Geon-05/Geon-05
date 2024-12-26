@@ -9,7 +9,10 @@
 - 😎 **Now:** Fully immersed in learning and growing!  
 
 ## 💻 My Skills  
-[![My Skills](https://skillicons.dev/icons?i=python,java,css,html,js,tensorflow,django&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,java,css,html,vue,js,tensorflow,gcp,aws,flask,django&theme=light)](https://skillicons.dev)  
 
 ## 🛠️ Tools & Platforms  
 [![Tools](https://skillicons.dev/icons?i=docker,git,github,gcp,vscode&theme=light)](https://skillicons.dev)  
+
+## 🛠️ OS 
+[![OS](https://skillicons.dev/icons?i=windows,ubuntu,apple&theme=light)](https://skillicons.dev)  
