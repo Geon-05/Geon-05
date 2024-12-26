@@ -1,21 +1,15 @@
-- 👋 Hi, I’m @Geon-05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 😎 지금은 공부중!
-[![My Skills](https://skillicons.dev/icons?i=java,css,html,js,python&theme=light)](https://skillicons.dev)
-<!---
-Geon-05/Geon-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---
-[![My Skills](https://skillicons.dev/icons?i=java,css,html,js,spring&theme=light)](https://skillicons.dev)
+# 👋 Hi, I’m @Geon-05  
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,sklearn,tensorflow&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,github&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,vscode&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin,linux,notion,powershell,stackoverflow,twitter,ubuntu,vim&theme=light)](https://skillicons.dev)
---->
+- 👀 **Interests:** AI development, computer vision, and image processing.  
+- 🌱 **Currently Learning:** Deep learning frameworks, image restoration techniques, and collaborative software development.  
+- 💞️ **Looking to Collaborate on:** AI-driven projects that solve real-world problems, especially in computer vision and data analysis.  
+- 📫 **How to Reach Me:** [ email : zqrc05@gmail.com / notion : https://www.notion.so/162db44f39ac8158a37bd367ab4eee19 ]  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun Fact:** I love exploring cutting-edge technologies and challenging myself with new projects.  
+- 😎 **Now:** Fully immersed in learning and growing!  
+
+## 💻 My Skills  
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,js,python,tensorflow,django&theme=light)](https://skillicons.dev)  
+
+## 🛠️ Tools & Platforms  
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,gcp,vscode&theme=light)](https://skillicons.dev)  
