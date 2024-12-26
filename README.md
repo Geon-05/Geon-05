@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,css,html,vue,js,pytorch,tensorflow,flask&theme=light)](https://skillicons.dev)  
 
 ## 🛠️ Tools & Platforms  
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,gcp,aws,vscode,notion&theme=light)](https://skillicons.dev)  
+[![Tools](https://skillicons.dev/icons?i=git,github,gcp,aws,vscode,notion&theme=light)](https://skillicons.dev)  
 
 ## 🛠️ OS 
-[![OS](https://skillicons.dev/icons?i=windows,ubuntu,apple&theme=light)](https://skillicons.dev)  
+[![OS](https://skillicons.dev/icons?i=windows,ubuntu&theme=light)](https://skillicons.dev)  
