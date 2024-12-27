@@ -20,19 +20,13 @@
 
 
 # 📂 Featured Projects
-### 🌐 [이미지 색상화 및 손실 부분 복원 AI 경진대회](https://dacon.io/competitions/official/236420/overview/description)
-- 🚀 작성대기
-- 🛠️ 작성대기
+### 🖼️ [이미지 색상화 및 손실 부분 복원 AI 경진대회](https://dacon.io/competitions/official/236420/overview/description)
 - 🔗 Links: [Repository](https://github.com/Geon-05/dacon_image)
 
-### 📊 [Youtrue - Youtubetool]
-- 🚀 작성대기
-- 🛠️ 작성대기
+### 🎞️ [Youtrue - Youtubetool]
 - 🔗 Links: 작업중 Private [url](https://youtrue.duckdns.org)
 
-### 📊 [KoreaCulture ChatBot](https://github.com/yourusername/project-repo)
-- 🚀 작성대기
-- 🛠️ 작성대기
+### 🇰🇷 [KoreaCulture ChatBot](https://github.com/yourusername/project-repo)
 - 🔗 Links: [Repository](https://github.com/Geon-05/koreaculture_project01)
 
 ---
