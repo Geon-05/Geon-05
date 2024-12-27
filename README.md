@@ -28,7 +28,7 @@
 ### 📊 [Youtrue - Youtubetool]
 - 🚀 작성대기
 - 🛠️ 작성대기
-- 🔗 Links: 작업중 Private
+- 🔗 Links: 작업중 Private [url](https://youtrue.duckdns.org)
 
 ### 📊 [KoreaCulture ChatBot](https://github.com/yourusername/project-repo)
 - 🚀 작성대기
