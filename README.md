@@ -7,7 +7,7 @@
 - 📫 **How to Reach Me:**  
   [ email : zqrc05@gmail.com ]  
   [ notion : https://www.notion.so/162db44f39ac8158a37bd367ab4eee19 ]  
-  [ streamrit : https://geon05.streamlit.app ]
+  [ streamlit : https://geon05.streamlit.app ]
 - 🚀 **Goals:** To continually enhance my programming skills and learn cutting-edge technologies.
 - 😎 **Now:** Fully immersed in learning and growing!  
 ---
