@@ -28,8 +28,8 @@
 
 ### 🎞️ [Youtrue - Youtubetool]
 - 🔗 Links: [url](https://youtrue.duckdns.org) -- 서비스 종료 2025.01.14
-- 🔗 Links: [Repository]([https://github.com/Geon-05/dacon_image](https://github.com/Geon-05/Youtrue_c)
-- 
+- 🔗 Links: [Repository](https://github.com/Geon-05/Youtrue_c)
+  
 ### 🇰🇷 [KoreaCulture ChatBot](https://github.com/yourusername/project-repo)
 - 🔗 Links: [Repository](https://github.com/Geon-05/koreaculture_project01)
 
