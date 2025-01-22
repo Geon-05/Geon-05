@@ -23,7 +23,7 @@
 
 
 # 📂 Featured Projects
-### 🖼️ [난독화된 한글 리뷰 복원 AI 경진대회](https://dacon.io/competitions/official/236446/overview/description))
+### ⌨️ [난독화된 한글 리뷰 복원 AI 경진대회](https://dacon.io/competitions/official/236446/overview/description)
 - 🔗 Links: private - 진행중
 
 ### 🖼️ [이미지 색상화 및 손실 부분 복원 AI 경진대회](https://dacon.io/competitions/official/236420/overview/description)
