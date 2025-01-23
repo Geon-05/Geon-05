@@ -6,12 +6,13 @@
 - 💞️ **Looking to Collaborate on:** AI-driven projects that solve real-world problems, especially in computer vision and data analysis.  
 - 📫 **How to Reach Me:**  
   [ email : zqrc05@gmail.com ]  
-  [ notion : https://www.notion.so/162db44f39ac8158a37bd367ab4eee19 ]  
-  [ streamlit : https://geon05.streamlit.app ]
+  [ notion : https://www.notion.so/162db44f39ac8158a37bd367ab4eee19 ]
+  [ DACON : https://dacon.io/myprofile/514165/home ]  
+  [ streamlit : https://geon05.streamlit.app ]  
+  
 - 🚀 **Goals:** To continually enhance my programming skills and learn cutting-edge technologies.
 - 😎 **Now:** Fully immersed in learning and growing!  
 ---
-
 ## 💻 My Skills  
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,css,html,vue,js,flask&theme=light)](https://skillicons.dev)  
 
