@@ -24,8 +24,11 @@
 
 
 # 📂 Featured Projects
-### ⌨️ [난독화된 한글 리뷰 복원 AI 경진대회](https://dacon.io/competitions/official/236446/overview/description)
-- 🔗 Links: private - 진행중
+### ⌨️ [부동산 허위매물 분류 해커톤: 가짜를 색출하라!](https://dacon.io/competitions/official/236439/overview/description)  
+- 🔗 Links: private - 진행중  
+
+### ⌨️ [난독화된 한글 리뷰 복원 AI 경진대회](https://dacon.io/competitions/official/236446/overview/description)  
+- 🔗 Links: private - 진행중  
 
 ### 🖼️ [이미지 색상화 및 손실 부분 복원 AI 경진대회](https://dacon.io/competitions/official/236420/overview/description)
 - 🔗 Links: [Repository](https://github.com/Geon-05/dacon_image)
