@@ -5,8 +5,7 @@
 - 🌱 **Currently Learning:** Deep learning frameworks, image restoration techniques, and collaborative software development.  
 - 💞️ **Looking to Collaborate on:** AI-driven projects that solve real-world problems, especially in computer vision and data analysis.  
 - 📫 **How to Reach Me:**  
-  [ email : zqrc05@gmail.com ]  
-  [ notion : https://www.notion.so/162db44f39ac8158a37bd367ab4eee19 ]  
+  [ email : zqrc05@gmail.com ]
   [ DACON : https://dacon.io/myprofile/514165/home ]  
   [ streamlit : https://geon05.streamlit.app ]  
   
